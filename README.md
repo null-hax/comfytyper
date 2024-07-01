@@ -1,4 +1,5 @@
 # ComfyTyper
+Inspired by CozyTyper, a comfy game for practicing typing and tracking your WPM.
 
 ## Roadmap  
 - [ ] WPM POC  
