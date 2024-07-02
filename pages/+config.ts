@@ -10,6 +10,6 @@ export default {
 
   passToClient: ["user"],
   // <title>
-  title: "My Vike App",
+  title: "ComfyTyper",
   extends: vikeReact,
 } satisfies Config;
